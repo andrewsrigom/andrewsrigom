@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
-  <img alt="Andrews Rigom — Senior Full-Stack Software Engineer and Product Engineer" src="./assets/profile-hero-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewsrigom/andrewsrigom/main/assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrewsrigom/andrewsrigom/main/assets/profile-hero-light.svg">
+  <img alt="Andrews Rigom — Senior Full-Stack Software Engineer and Product Engineer" src="https://raw.githubusercontent.com/andrewsrigom/andrewsrigom/main/assets/profile-hero-light.svg" width="100%">
 </picture>
 
 [Website](https://seusaas.com) · [Portfolio](https://andrewsrigom.pages.dev) · [LinkedIn](https://www.linkedin.com/in/andrewsrigom/) · [GitHub](https://github.com/andrewsrigom)
