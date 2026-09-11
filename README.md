@@ -1,30 +1,24 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewsrigom/andrewsrigom/main/assets/profile-hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrewsrigom/andrewsrigom/main/assets/profile-hero-light.svg">
-  <img alt="Andrews Rigom — Senior Full-Stack Software Engineer and Product Engineer" src="https://raw.githubusercontent.com/andrewsrigom/andrewsrigom/main/assets/profile-hero-light.svg" width="100%">
+  <img alt="Andrews Rigom — Senior Full-Stack Software Engineer focused on AI systems and backend engineering" src="https://raw.githubusercontent.com/andrewsrigom/andrewsrigom/main/assets/profile-hero-light.svg" width="100%">
 </picture>
 
-[Website](https://seusaas.com) · [Portfolio](https://andrewsrigom.pages.dev) · [LinkedIn](https://www.linkedin.com/in/andrewsrigom/) · [GitHub](https://github.com/andrewsrigom)
+[Portfolio](https://andrewsrigom.pages.dev) · [LinkedIn](https://www.linkedin.com/in/andrewsrigom/) · [SeuSaaS](https://seusaas.com) · [GitHub](https://github.com/andrewsrigom)
 
 ## About
 
-I’m a Senior Full-Stack Software Engineer with 10+ years of experience building and maintaining production systems across fintech, e-commerce, and SaaS. I work across the stack, with a strong focus on frontend architecture, product engineering, APIs, data, and the workflows that keep software reliable in production.
+I’m a Senior Full-Stack Software Engineer with 10+ years of experience building and maintaining production systems across fintech, e-commerce, and SaaS. My current work focuses on AI systems, backend architecture, and developer tooling — including agentic workflows, retrieval pipelines, APIs, data systems, and production reliability.
 
-Today I’m building SaaS products and investing more deeply in backend systems, AI infrastructure, distributed architectures, and developer tooling.
+My full-stack background helps me take products from system design and data modeling to polished user experiences.
 
 ## Current focus
 
-- **Agentic engineering** — local-first tools, retrieval systems, MCP integrations, and verifiable agent workflows.
-- **Backend and distributed systems** — service boundaries, data ownership, failure recovery, observability, and operational evidence.
-- **SaaS architecture** — multi-tenant foundations, durable product workflows, and maintainable systems that can evolve.
+- **AI systems and agentic engineering** — retrieval, MCP integrations, tool use, cited outputs, and verifiable agent workflows.
+- **Backend systems** — API design, data ownership, durable workflows, failure recovery, and observability.
+- **Product engineering** — maintainable SaaS architectures and complete systems that can evolve from interface to infrastructure.
 
 ## Selected work
-
-### [CodebaseScan](https://github.com/andrewsrigom/codebasescan)
-
-Local-first static auditing for Node.js, React, and Next.js repositories, with offline audit modes, immutable reports, and CI policy gates.
-
-`TypeScript` · `Node.js` · `Next.js` · `Static analysis`
 
 ### [VaultMind](https://github.com/andrewsrigom/vaultmind)
 
@@ -38,28 +32,27 @@ Production-oriented video-on-demand platform with rights-aware cataloging, feder
 
 `TypeScript` · `GraphQL` · `PostgreSQL` · `Redis` · `Docker`
 
+### [CodebaseScan](https://github.com/andrewsrigom/codebasescan)
+
+Local-first static auditing for Node.js, React, and Next.js repositories, with offline audit modes, immutable reports, and CI policy gates.
+
+`TypeScript` · `Node.js` · `Next.js` · `Static analysis`
+
 ### [Caderno UI](https://github.com/andrewsrigom/caderno-ui)
 
 Framework-agnostic, notebook-inspired component system built with Web Components, plus dedicated React and Astro adapters.
 
 `TypeScript` · `Web Components` · `Lit` · `React` · `Astro`
 
-### [Career Ledger](https://github.com/andrewsrigom/career-ledger)
-
-Private-first system that turns reviewed engineering evidence into a sanitized, bilingual static portfolio through an explicit publication boundary.
-
-`TypeScript` · `Node.js` · `Astro` · `Playwright` · `Cloudflare Pages`
-
 ## Technology
 
 | Area | Working set |
 | --- | --- |
-| **Core engineering** | `TypeScript` · `JavaScript` · `Node.js` |
-| **Frontend** | `React` · `Next.js` · `Web Components` · `Tailwind CSS` |
-| **Backend and data** | `PostgreSQL` · `pgvector` · `Redis` · `GraphQL` |
-| **Systems and infrastructure** | `Docker` · `GitHub Actions` · `Playwright` |
 | **AI systems** | `RAG` · `MCP` · `LangGraph` |
+| **Backend and data** | `TypeScript` · `Node.js` · `PostgreSQL` · `pgvector` · `Redis` · `GraphQL` |
+| **Systems and delivery** | `Docker` · `GitHub Actions` · `Playwright` |
+| **Product interfaces** | `React` · `Next.js` · `Web Components` · `Tailwind CSS` |
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/andrewsrigom/) · [Website](https://seusaas.com) · [Portfolio](https://andrewsrigom.pages.dev) · [Email](mailto:andrews.ribeiro.gomes@gmail.com)
+[Portfolio](https://andrewsrigom.pages.dev) · [LinkedIn](https://www.linkedin.com/in/andrewsrigom/) · [SeuSaaS](https://seusaas.com) · [Email](mailto:andrews.ribeiro.gomes@gmail.com)
